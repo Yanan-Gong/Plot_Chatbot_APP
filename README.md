@@ -7,7 +7,7 @@ This project use mistralai api and panel
 
 
 ## Chatbot APP 
-![alt text]('pic/first.png')
+![alt text](https://github.com/Yanan-Gong/RAG_python/blob/master/pic/first.png)
 
 ## Tweak plots
-![alt text]('pic/second.png')
+![alt text](https://github.com/Yanan-Gong/RAG_python/blob/master/pic/second.png)
